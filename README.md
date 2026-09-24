@@ -1,21 +1,23 @@
-----------------CYBER-JOURNEY--------------------
+# cyber-journey
 
-Journal public de ma progression en cyber securité.
+Journal public de ma progression en cybersécurité.
 
-            ----  Objectif   ----
+## Objectif
 
-Devenir ingenieur en cyber security . ALternance 
-visée en 2028.ce depot trace chaque de travaille;
-ce que j'apprend,	ce que je construit,
- 	     ce que je rate .
+Devenir ingénieur en cybersécurité. Alternance visée en 2028.
+Ce dépôt trace chaque heure de travail : ce que j'apprends,
+ce que je construis, ce que je rate.
 
-	 ---- point de depart ----
-Septembre 2026. Étudiant en cycle préparatoire
-ingénieur à l'EFREI. Niveau initial : débutant
- complet en cybersécurité.Python et C de niveau
-		 débutant.
+## Point de départ
 
-	       ---- Plan ----
+Septembre 2026. Étudiant en cycle préparatoire ingénieur à l'EFREI.
+Niveau initial : débutant complet en cybersécurité.
+Python et C de niveau débutant.
+
+## Plan
+
+Parcours structuré en 10 phases :
+
 | Phase | Contenu |
 |-------|---------|
 | T0 | Socle : virtualisation, Git, prise de notes |
@@ -29,8 +31,6 @@ ingénieur à l'EFREI. Niveau initial : débutant
 | T8 | Défensif : logs, détection, SIEM |
 | T9 | Home lab avancé et cloud |
 
-	---- Contenue du depot ----
-- 'journal.md' - journal de bord, mise a jour a
-			 chaque session 
+## Contenu du dépôt
 
- 
+- `journal.md` — journal de bord, mis à jour à chaque session
