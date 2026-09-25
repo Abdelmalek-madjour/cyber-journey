@@ -1,4 +1,4 @@
-##Terminal
+## Terminal
 
 | Commande | Effet | Piège |
 |---|---|---|
@@ -7,10 +7,10 @@
 | `cd ..` | remonte d'un dossier | |
 | `cat fichier` | affiche le contenu du fichier | sur le DISQUE, pas dans le commit |
 | `nano fichier` | éditer | `Ctrl+X` puis `O` puis Entrée |
-| 'mkdir -p' | creation dossirr | "-p" créer une absorbance d'un coup |
-| 'rm -rf ' | remove(suprimer une dossier |peu aussi changer de nom de dossier "-rf" r: recurcive (tou suprimer dans ce cas) , f : forcer (demande pas de confirmation |
+| `mkdir -p` | creation dossier | "-p" créer une absorbance d'un coup |
+| `rm -rf` | remove(suprimer un dossier |peut aussi changer de nom de dossier "-rf" r: recurcive (tous suprimer dans ce cas) , f : forcer (demande pas de confirmation |
 
-##git
+## git
 
 | Commande | Effet | Piège |
 |---|---|---|
@@ -69,7 +69,8 @@ Oui → `fix`. Non → `refactor`.
 - breaking change : `feat!: change le format de sortie en JSON`
 
 Spec officielle FR : https://www.conventionalcommits.org/fr/
-##Piege rencontré
+
+## Piége rencontré
 
 - `#` dans zsh interactif n'est pas un commentaire → `too many arguments`
 - backtick ouvert → prompt `bquote>` → `Ctrl+C`
