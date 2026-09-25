@@ -3,12 +3,14 @@
 | Commande | Effet | Piège |
 |---|---|---|
 | `pwd` | où je suis | à faire avant tout `rm -rf` |
-| `ls -a` | liste, fichiers cachés inclus | sans `-a`, on ne voit pas `.git` |
+| `mkdir -p` | crée un dossier | `-p` crée aussi tous les dossiers parents manquants |
+| `rm -rf` | supprime définitivement | `-r` récursif, `-f` sans confirmation. Pas de corbeille. `pwd` avant, toujours |
+| `mv` | déplace **ou renomme** | `mv ancien.md nouveau.md` || `ls -a` | liste, fichiers cachés inclus | sans `-a`, on ne voit pas `.git` |
 | `cd ..` | remonte d'un dossier | |
 | `cat fichier` | affiche le contenu du fichier | sur le DISQUE, pas dans le commit |
 | `nano fichier` | éditer | `Ctrl+X` puis `O` puis Entrée |
-| `mkdir -p` | creation dossier | "-p" créer une absorbance d'un coup |
-| `rm -rf` | remove(suprimer un dossier |peut aussi changer de nom de dossier "-rf" r: recurcive (tous suprimer dans ce cas) , f : forcer (demande pas de confirmation |
+| `mkdir -p` | creation dossier | "-p" créer toute chaine de dossier parent |
+| `rm -rf` | remove(suprimer un dossier) | peut aussi changer de nom de dossier "-rf" r: recurcive (tous suprimer dans ce cas) , f : forcer (demande pas de confirmation |
 
 ## git
 
