@@ -18,3 +18,9 @@
 - Compris que `restore --source` n'affecte que le disque, pas l'historique
 - Appris `git log --oneline -- fichier` pour isoler l'historique d'un fichier
 
+## 2026-11-11 — T0.3 Notes, mémoire et veille
+- **Fait :** vault Obsidian (7 dossiers + template), 3 notes concept (cle-ssh, known-hosts, git-vs-github), paquet Anki
+- **Appris :** SSH : la clé privée signe et reste chez moi, la publique vérifie et se partage · known_hosts : fichier qui
+ bloque la connexion si la clé d'un serveur change (anti man-in-the-middle) · Git sauvegarde l'historique de mes commits 
+en local, GitHub est ma vitrine
+- **Prochaine étape :** 2 notes concept, 15 cartes Anki, veille, Bitwarden, puis T1.1 (Bandit)
