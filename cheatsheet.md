@@ -10,6 +10,8 @@
 | `mkdir -p` | crée un dossier | `-p` crée aussi tous les dossiers parents manquants |
 | `rm -rf` | supprime définitivement | `-r` récursif, `-f` sans confirmation. Pas de corbeille. `pwd` avant, toujours |
 | `mv` | déplace ou renomme | `mv ancien.md nouveau.md` | 
+| `history 1 | grep "mot"` | retrouver une commande déja tapée ||
+| `tail -20 fichier`|afficher les 20 dernieres lignes d'un fichier ||
 
 
 ## git
@@ -23,6 +25,16 @@
 | `git log --oneline` | l'historique | |
 | `git show HEAD:f` | contenu de f dans le commit | |
 | `git show :f` | contenu de f dans la staging | |
+| `git remote -v` | affiche l'adresse du depot d'orgine ||
+| `git config user.email `| affiche l'email qui signe mes commit ||
+| `git log -1 --format="%an <%ae>" `| nom + e-mail de l'auteur du DERNIER commit ||
+
+### SSH
+
+| commande | Effet |
+| `ssh -vT git@github.com` | teste ma connexion SSH a github,etape par tape (-v =bavard ) |
+| `ssh-keygen -F github.com` | cherche github.com dans known_hosts et affiche ses clés publiques |
+
 
 ### Préfixes de commit (Conventional Commits)
 
@@ -78,4 +90,5 @@ Spec officielle FR : https://www.conventionalcommits.org/fr/
 - backtick ouvert → prompt `bquote>` → `Ctrl+C`
 - guillemet courbe `"` ≠ guillemet droit `"` → prompt `dquote>`
 - `\` au lieu de `/` dans un chemin
+
 
