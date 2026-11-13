@@ -36,6 +36,19 @@
 | `ssh-keygen -F github.com` | cherche github.com dans known_hosts et affiche ses clés publiques |
 
 
+`git  @  github.com  :  Abdelmalek-madjour  /  cyber-journey.git`
+ `│           │                │                      │`
+ `│       le serveur        ton compte             le dépôt`
+ `│     (l'immeuble)     (l'appartement)          (la boîte)`
+ `│`
+ `utilisateur SSH : « git », le MÊME pour tout le monde sur GitHub`
+
+
+- `abdel@MacBook-Air-de-abdelmalek cyber-journey % git config user.email` 
+	`git log -1 --format="%an <%ae>"`
+	`323791980+Abdelmalek-madjour@users.noreply.github.com`
+	`Madjour Abdelmalek <==🔵323791980==+==🔴Abdelmalek-madjour@users.noreply.github.com==>`
+
 ### Préfixes de commit (Conventional Commits)
 
 | Préfixe | Sens | Quand | Exemple |
