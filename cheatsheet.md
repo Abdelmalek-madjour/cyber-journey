@@ -32,10 +32,11 @@
 ### SSH
 
 | commande | Effet |
+|---|---|   
 | `ssh -vT git@github.com` | teste ma connexion SSH a github,etape par tape (-v =bavard ) |
 | `ssh-keygen -F github.com` | cherche github.com dans known_hosts et affiche ses clés publiques |
 
-
+'''
 `git  @  github.com  :  Abdelmalek-madjour  /  cyber-journey.git`
  `│           │                │                      │`
  `│       le serveur        ton compte             le dépôt`
@@ -47,7 +48,7 @@
 - `abdel@MacBook-Air-de-abdelmalek cyber-journey % git config user.email` 
 	`git log -1 --format="%an <%ae>"`
 	`323791980+Abdelmalek-madjour@users.noreply.github.com`
-	`Madjour Abdelmalek <==🔵323791980==+==🔴Abdelmalek-madjour@users.noreply.github.com==>`
+	`Madjour Abdelmalek <==🔵323791980==+==🔴Abdelmalek-madjour@users.noreply.github.com==>`. '''
 
 ### Préfixes de commit (Conventional Commits)
 
