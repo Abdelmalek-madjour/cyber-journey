@@ -10,7 +10,7 @@
 | `mkdir -p` | crée un dossier | `-p` crée aussi tous les dossiers parents manquants |
 | `rm -rf` | supprime définitivement | `-r` récursif, `-f` sans confirmation. Pas de corbeille. `pwd` avant, toujours |
 | `mv` | déplace ou renomme | `mv ancien.md nouveau.md` | 
-| `history 1 | grep "mot"` | retrouver une commande déja tapée ||
+| `history 1 \| grep "mot"` | retrouver une commande déjà tapée ||
 | `tail -20 fichier`|afficher les 20 dernieres lignes d'un fichier ||
 
 
@@ -45,10 +45,11 @@
  `utilisateur SSH : « git », le MÊME pour tout le monde sur GitHub`
 ```
 
-```- `abdel@MacBook-Air-de-abdelmalek cyber-journey % git config user.email`
+```
+- `abdel@MacBook-Air-de-abdelmalek cyber-journey % git config user.email`
 	`git log -1 --format="%an <%ae>"`
-	`323791980+Abdelmalek-madjour@users.noreply.github.com`
-	`Madjour Abdelmalek <==🔵323791980==+==🔴Abdelmalek-madjour@users.noreply.github.com==>`. ```
+	`323791980+Abdelmalek-madjour@users.noreply.github.com`	`Madjour Abdelmalek 323791980+Abdelmalek-madjour@users.noreply.github.com`.
+```
 
 ### Préfixes de commit (Conventional Commits)
 
