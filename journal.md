@@ -24,3 +24,8 @@
  bloque la connexion si la clé d'un serveur change (anti man-in-the-middle) · Git sauvegarde l'historique de mes commits 
 en local, GitHub est ma vitrine
 - **Prochaine étape :** 2 notes concept, 15 cartes Anki, veille, Bitwarden, puis T1.1 (Bandit)
+
+## 2026-11-12 → 2026-11-17 — T0.3 Notes, mémoire et veille
+- **fait :**  j'ai finie 2 concept ( man-in-the-midlle et model 3 zones ) + j'ai finie les carte anki 15/15 +  push concept dans cyber-journey + un proche qui as lue mon cencepte 
+- **Appris :**  comprehension de man-ine-the-middle: son role et la ou il ce place et comment l'evier  et model 3 zone de git : disque/stagning/depot et bien commprendre comment bien organiser mes commit . 
+- **Prochaineétape :** Prochaine étape : feedly +5 source ,bitwarden + a2F 
