@@ -34,3 +34,16 @@ Parcours structuré en 10 phases :
 ## Contenu du dépôt
 
 - `journal.md` — journal de bord, mis à jour à chaque session
+
+## Mes notes
+
+Méthode : je comprends dans mes vault(obsidian) et je note pour m'aider a comprendre et revoir si j'ai des difficultés , et j'utilise anki pour retenir mes notes/conceptes
+(anki : est un logicil dans lequel on met des question reponse et ca nous aide a les retenir ) ensuite une fois compris et acquis je publie une version public ici 
+
+Structure du vault : 00-Inbox · 01-Cours · 02-Cyber · 03-Labs · 04-Outils · 05-Business · 99-Templates
+
+- [Clé SSH](notes/cle-ssh.md)
+- [known_hosts](notes/known-hosts.md)
+- [Man-in-the-middle](notes/man-in-the-middle.md)
+- [Git vs GitHub](notes/git-vs-github.md)
+- [Le modèle à 3 zones de Git](notes/modele-3-zones-git.md)
