@@ -1,5 +1,6 @@
 ## En une phrase (mes mots):
->c'est un programme qui ce situe entre 2 partie ma machine et le web par exemple et il peu modifier ,verifier et annuler des raquette et on as le Known-hosts qui verifie les cle public ssh pour démasquer les man-in-the-middle
+>c'est une personne  qui ce situe entre 2 partie ma machine et le web par exemple et il peu modifier ,espionner et annuler des raquette et on as le Known-hosts qui verifie les cle public ssh pour démasquer les man-in-the-middle
+
 ## A quoi ca sert concretement:
 >car c'est moyen qui peu nous etre tres dangereux et c la des principe de la cyber c ce qu'il fait un pentester c une attack qui peu voler bios information donc dans un wifi public si onune alerte ssh faut jamais lui faire confiance 
 
