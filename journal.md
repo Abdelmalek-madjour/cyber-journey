@@ -28,4 +28,4 @@ en local, GitHub est ma vitrine
 ## 2026-11-12 → 2026-11-17 — T0.3 Notes, mémoire et veille
 - **fait :**  j'ai finie 2 concept ( man-in-the-midlle et model 3 zones ) + j'ai finie les carte anki 15/15 +  push concept dans cyber-journey + un proche qui as lue mon cencepte 
 - **Appris :**  comprehension de man-ine-the-middle: son role et la ou il ce place et comment l'evier  et model 3 zone de git : disque/stagning/depot et bien commprendre comment bien organiser mes commit . 
-- **Prochaineétape :** Prochaine étape : feedly +5 source ,bitwarden + a2F 
+- **Prochaine étape :** feedly +5 source ,bitwarden + a2F 
