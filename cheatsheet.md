@@ -12,7 +12,7 @@
 | `mv` | déplace ou renomme | `mv ancien.md nouveau.md` | 
 | `history 1 \| grep "mot"` | retrouver une commande déjà tapée ||
 | `tail -20 fichier`|afficher les 20 dernieres lignes d'un fichier ||
-
+| `--amend` | change le message du dernier commit mais garde la date original |pas utiliser apres le push |
 
 ## git
 
