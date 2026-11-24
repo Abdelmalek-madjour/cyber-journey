@@ -29,3 +29,9 @@ en local, GitHub est ma vitrine
 - **fait :**  j'ai finie 2 concept ( man-in-the-midlle et model 3 zones ) + j'ai finie les carte anki 15/15 +  push concept dans cyber-journey + un proche qui as lue mon cencepte 
 - **Appris :**  comprehension de man-ine-the-middle: son role et la ou il ce place et comment l'evier  et model 3 zone de git : disque/stagning/depot et bien commprendre comment bien organiser mes commit . 
 - **Prochaine étape :** feedly +5 source ,bitwarden + a2F 
+
+## 2026-11-23 → 2026-11-24 — T0.3
+- **Fait :**  T0.2 validée ,suivie actu sur feedly , configuration Bitwarden
+- **Appris :** garder une veille sur le mon de la tech(feedly et podcst) , et gestion de mes mot de passe 
+- **Prochaine étape :** commencer T1.1
+ 
